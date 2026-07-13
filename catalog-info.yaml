@@ -24,7 +24,7 @@ metadata:
       title: Internal URL
 spec:
   type: website
-  owner: "group:default/apresentacao"
+  owner: "user:default/root"
   lifecycle: experimental
   system: system:default/apresentacao-system
   consumesApis:
